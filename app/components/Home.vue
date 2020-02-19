@@ -7,7 +7,7 @@
         <TextField
           v-model="textFieldValue"
           hint="Entrez votre code"
-          maxlength="6"
+          maxLength="6"
           keyboardType="number"
           fontSize="40"
           textAlignment="center"
